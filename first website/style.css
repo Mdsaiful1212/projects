@@ -1,0 +1,24 @@
+.life{
+    width: 300px;
+    border: 2px solid rgb(225, 142, 65);
+}
+/* li{
+    list-style: none;
+} */
+.hello{
+    border: 2px solid rgb(255, 38, 0);
+    width: 50%;
+    height: 100px;
+    text-align: center;
+}
+header{
+    height: 1000px;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url('image/394220081_2355111971363868_8985858946983838752_n.jpg');
+    background-color: gray;
+    background-blend-mode: multiply;
+    box-shadow: 5px 5px 20px blue;
+}
